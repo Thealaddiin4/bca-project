@@ -1,0 +1,3 @@
+[submodule "bca-project"]
+	path = bca-project
+	url = https://github.com/Thealaddiin4/bca-project.git
